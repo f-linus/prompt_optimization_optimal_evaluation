@@ -1,0 +1,10 @@
+datasets==3.0.0
+diskcache==5.6.3
+ipykernel==6.29.5
+Levenshtein==0.26.0
+matplotlib==3.9.2
+openai==1.47.0
+pip==24.2
+python-dotenv==1.0.1
+scikit-learn==1.5.2
+setuptools==65.5.0
