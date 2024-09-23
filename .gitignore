@@ -1,0 +1,9 @@
+.mypy_cache
+.venv-prompt-opt
+azure_openai_llm_client_cache
+claude_llm_client_cache
+openai_embeddings_cache
+*.pickle
+.venv
+*.pyc
+prompt_optimization.utils.data.cache/*
