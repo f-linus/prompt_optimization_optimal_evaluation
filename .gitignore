@@ -7,3 +7,4 @@ openai_embeddings_cache
 .venv
 *.pyc
 prompt_optimization.utils.data.cache/*
+.env
